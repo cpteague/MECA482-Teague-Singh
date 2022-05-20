@@ -34,7 +34,7 @@ Shown below are visualizations of the Furuta Pendulum mathematical model.
 
 Shown below are the motion equations.
 
-&emsp;&emsp;&emsp;&emsp;![](Images/motioneqs.jpg)
+&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/motioneqs.jpg)
 
 Shown below are the partial derivations of the energy equations.
 
