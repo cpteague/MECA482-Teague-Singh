@@ -18,6 +18,7 @@ MECA 482 Control Systems Furuta Pendulum Project Github
 # Project Introduction
 In this project, students will create a mathematical model for an inverted, self leveling Furuta Pendulum. This project will utilize multiple software programs that students have been educated on in several of their classes. Some of these software programs include Solidworks, Matlab, Coppelia Sim, and Simulink. 
 
+![](Images/Pendmathmodelfront.jpg)
 
 # Furuta Pendulum Operational Viewpoint
 
