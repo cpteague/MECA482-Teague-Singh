@@ -44,7 +44,7 @@ Shown below are the partial derivations of the energy equations.
 
 &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/qeqs.jpg)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/leqs.jpg)
+&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/leqs.jpg)
 
 # Logic Diagram
 
