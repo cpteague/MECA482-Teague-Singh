@@ -44,6 +44,8 @@ Shown below are the partial derivations of the energy equations.
 
 # System Model
 
+![](Images/heirarchy.jpg)
+
 # Simulink Model
 
 # Solidworks Model
