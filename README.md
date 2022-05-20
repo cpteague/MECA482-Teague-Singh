@@ -38,9 +38,9 @@ Shown below are the motion equations.
 
 Shown below are the partial derivations of the energy equations.
 
-&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](Images/veqs.jpg) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](Images/teqs.jpg) 
+![](Images/veqs.jpg)![](Images/teqs.jpg) 
 
-&nbsp;&nbsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](Images/qeqs.jpg) &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](Images/leqs.jpg)
+![](Images/qeqs.jpg) ![](Images/leqs.jpg)
 
 # Logic Diagram
 
