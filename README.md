@@ -30,7 +30,7 @@ Below are two operational viewpoints of the Furuta Pendulum design. These viewpo
 # Mathematical Model
 Shown below are visualizations of the Furuta Pendulum mathematical model. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;![](Images/Pendmathmodelfront.jpg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](Images/pendulumforces.jpg)
+![](Images/Pendmathmodelfront.jpg)[](Images/pendulumforces.jpg)
 
 Shown below are the motion equations.
 
