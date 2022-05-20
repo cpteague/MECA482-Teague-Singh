@@ -25,7 +25,7 @@ In this project, students will create a mathematical model for an inverted, self
 
 ![alt text here](Pendulum math model front.png)
 
-![Alt text](/MECA482-Teague-Singh/Images/Pendulum math model front.jpg "Optional title")
+![Alt text](/cpteague/MECA482-Teague-Singh/Images/Pendulum math model front.jpg "Optional title")
 
 # Logic Diagram
 
