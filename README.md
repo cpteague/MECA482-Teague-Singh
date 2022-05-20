@@ -21,6 +21,7 @@ In this project, students will create a mathematical model for an inverted, self
 ![](Images/googlependulum.png)
 
 # Furuta Pendulum Operational Viewpoint
+Below are two operational viewpoints of the Furuta Pendulum design. These viewpoints illustrate the basic layout of the inividual components that make up this pendulum design.
 
 ![](Images/drawioside.jpg) ![](Images/drawiofront.jpg)
 
