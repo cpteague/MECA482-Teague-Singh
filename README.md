@@ -3,7 +3,7 @@ MECA 482 Control Systems Futura Pendulum Project Github
 
 Group members: Aman Singh & Carson Teague
 
-Deliverables:
+**Deliverables:**
 
 -Create a self balancing pendulum via Coppelia Sim and Matlab, Simulink or any other necessary software
 
