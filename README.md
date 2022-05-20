@@ -30,6 +30,13 @@ Shown below are visualizations of the Furuta Pendulum mathematical model.
 
 &nbsp;&nbsp;&nbsp;&nbsp;![](Images/Pendmathmodelfront.jpg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](Images/pendulumforces.jpg)
 
+Shown below are the motion equations.
+
+![](Images/motioneqs.jpg)
+
+Shown below are the partial derivations of the energy equations.
+
+![](Images/veqs.jpg) ![](Images/teqs.jpg) ![](Images/leqs.jpg)
 
 # Logic Diagram
 
