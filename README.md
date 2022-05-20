@@ -42,7 +42,7 @@ Shown below are the partial derivations of the energy equations.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/teqs.jpg) 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/qeqs.jpg)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/qeqs.jpg)
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/leqs.jpg)
 
