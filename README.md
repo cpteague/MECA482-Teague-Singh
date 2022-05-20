@@ -1,6 +1,5 @@
 # MECA482-Teague-Singh
 MECA 482 Control Systems Futura Pendulum Project Github
-MECA 482 Future Pendulum Project
 
 Group members: Aman Singh & Carson Teague
 
