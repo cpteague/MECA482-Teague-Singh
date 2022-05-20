@@ -23,6 +23,7 @@ In this project, students will create a mathematical model for an inverted, self
 
 # Mathematical Model
 
+
 # Logic Diagram
 
 # System Model
