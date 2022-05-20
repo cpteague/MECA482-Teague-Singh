@@ -18,7 +18,7 @@ MECA 482 Control Systems Furuta Pendulum Project Github
 # Project Introduction
 In this project, students will create a mathematical model for an inverted, self leveling Furuta Pendulum. This project will utilize multiple software programs that students have been educated on in several of their classes. Some of these software programs include Solidworks, Matlab, Coppelia Sim, and Simulink. 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/googlependulum.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/googlependulum.png)
 
 # Furuta Pendulum Operational Viewpoint
 Below are two operational viewpoints of the Furuta Pendulum design. These viewpoints illustrate the basic layout of the inividual components that make up this pendulum design.
@@ -28,7 +28,7 @@ Below are two operational viewpoints of the Furuta Pendulum design. These viewpo
 # Mathematical Model
 Shown below are visualizations of the Furuta Pendulum mathematical model. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;![](Images/Pendmathmodelfront.jpg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](Images/pendulumforces.jpg)
+&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;![](Images/Pendmathmodelfront.jpg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](Images/pendulumforces.jpg)
 
 Shown below are the motion equations.
 
