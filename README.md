@@ -1,7 +1,9 @@
 # MECA482-Teague-Singh
 MECA 482 Control Systems Furuta Pendulum Project Github
 
-**Group members**: Aman Singh & Carson Teague
+**Group members**: 
+Aman Singh 
+Carson Teague
 
 **Deliverables:**
 
