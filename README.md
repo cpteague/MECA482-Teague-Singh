@@ -22,6 +22,8 @@ In this project, students will create a mathematical model for an inverted, self
 
 # Furuta Pendulum Operational Viewpoint
 
+![](Images/drawioside.jpg)
+
 # Mathematical Model
 
 ![](Images/Pendmathmodelfront.jpg) ![](Images/pendulumforces.jpg)
