@@ -63,6 +63,8 @@ Red represents matlab architecture while blue represents V-REP/CoppeliaSim archi
 
 # Functional Viewpoint
 
+Shown below is the basic functional viewpoint of this system
+
 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/Functional_Viewpoint.png)
 
 # Simulink Model
