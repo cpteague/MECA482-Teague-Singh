@@ -58,7 +58,7 @@ Shown below are the partial derivations of the energy equations.
 
 # Functional Viewpoint
 
-&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/Functional_Viewpoint)
+&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/Functional_Viewpoint.png)
 
 
 # Simulink Model
