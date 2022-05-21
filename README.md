@@ -52,6 +52,8 @@ Shown below are the partial derivations of the energy equations.
 
 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/heirarchy.jpg)
 
+# Control Architectre
+
 # Simulink Model
 
 # Solidworks Model
