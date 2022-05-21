@@ -46,6 +46,8 @@ Shown below are the partial derivations of the energy equations.
 
 &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/leqs.jpg)
 
+One thing to note is that the mathematical model is based off the Euler Lagrange Equation.
+
 
 # System Model
 
