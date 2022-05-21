@@ -67,6 +67,8 @@ Red represents matlab architecture while blue represents V-REP/CoppeliaSim archi
 
 # Simulink Model
 
+Shown below is the given Simulink model
+
 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/Simulink.png)
 
 # Solidworks Model
