@@ -63,16 +63,14 @@ Red represents matlab architecture while blue represents V-REP/CoppeliaSim archi
 
 # Functional Viewpoint
 
-Shown below is the basic functional viewpoint of this system
-
 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/Functional_Viewpoint.png)
 
 # Simulink Model
-
-Shown below is the given Simulink model
 
 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/Simulink.png)
 
 # Solidworks Model
 
 # Conclusion
+
+In this project, we learned how to derive mathematical models of complex systems using Euler-Lagrance Equations and State Space equations, create feedback loops, create a system order and object heirarchy. Additoinally, we learned to model projects in CoppeliaSim that can react dynamically to sensors and inputs. 
