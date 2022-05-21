@@ -51,6 +51,7 @@ One thing to note is that the mathematical model is based off the Euler Lagrange
 
 # System Model
 
+Shown below is a basic system heirarchy
 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/heirarchy.jpg)
 
 # Control Architectre
