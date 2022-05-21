@@ -54,7 +54,9 @@ Shown below are the partial derivations of the energy equations.
 # Control Architectre
 
 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/Control_Architecture.png)
+
 Red represents matlab architecture while blue represents V-REP/CoppeliaSim architecture.
+
 # Functional Viewpoint
 
 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/Functional_Viewpoint.png)
