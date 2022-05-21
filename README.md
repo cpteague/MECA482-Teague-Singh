@@ -56,6 +56,11 @@ Shown below are the partial derivations of the energy equations.
 
 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/Control_Architecture.png)
 
+# Functional Viewpoint
+
+&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/Functional_Viewpoint)
+
+
 # Simulink Model
 
 # Solidworks Model
