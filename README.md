@@ -54,6 +54,8 @@ Shown below are the partial derivations of the energy equations.
 
 # Control Architectre
 
+&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](Images/Control_Architecture.png)
+
 # Simulink Model
 
 # Solidworks Model
